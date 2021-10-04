@@ -1,0 +1,18 @@
+<h3>Add Restaurants</h3>
+<form action="<%= '/destinations/' + des._id + '/addRestaurant'  %>" method="POST">
+  <div>
+    <input hidden type="text" class="form-control" name="_id" value="<%= des._id %>" />
+  </div>
+
+  <div>
+    <label class="form-label">
+
+      Restaurants Name:
+      <input type="text" class="form-control" name="name" value="<%= restaurants.name %>" />
+      Reviews:
+      <input type="text" class="form-control" name="reviews" value="<%= restaurants.reviews %>" />
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-outline-primary">Add Restaurant</button>
+</form>

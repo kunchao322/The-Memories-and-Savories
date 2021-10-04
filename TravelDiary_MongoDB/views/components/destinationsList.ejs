@@ -1,0 +1,27 @@
+<!--{destination} from index.ejs-->
+<h2>Destinations</h2>
+<div class="row g-3">
+  <% for (let des of destinations) { %>
+
+  <div class="col-4">
+    <div class="card p-1">
+      <h5 class="card-title"><%= des.destination %></h5>
+      <div class="card-text">
+
+        <div><%= des.view%></div>
+        <div>State: <%= des.State %> </div>
+
+        <div>
+        <a class="btn btn-outline-primary" href="<%= '/destinations/' + des._id + '/edit' %>">Edit</a> 
+          <a class="btn btn-outline-danger" href="<%= '/destinations/' + des._id + '/delete' %>">Delete</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <% } %>
+
+  <%- include("./pagination.ejs", { currentPage, lastPage }) %>
+
+</div>

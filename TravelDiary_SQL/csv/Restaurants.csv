@@ -1,0 +1,151 @@
+RestID,RestName,DestID
+1,"Monahan, Bogisich and Torphy",63
+2,Beier Stop,128
+3,Kub Stop,141
+4,Skiles and Sons,125
+5,Fritsch Stop,106
+6,Mann-Torp,191
+7,Runolfsdottir-Ruecker,229
+8,Lang Stop,243
+9,Hammes House,174
+10,Luettgen Station,18
+11,Hills-Huel,145
+12,Lang Station,79
+13,Abshire Stop,246
+14,"Parisian, Reinger and Bogan",27
+15,Davis-Adams,144
+16,"Trantow, Reichel and Keeling",11
+17,Renner-Friesen,91
+18,"Dare, Pfeffer and Kertzmann",119
+19,"Ullrich, Brekke and Swift",133
+20,"Haley, Tromp and Glover",86
+21,Reichel and Sons,82
+22,Lind and Sons,212
+23,"Mante, Larkin and Bergnaum",29
+24,Klocko Stop,82
+25,Wisoky-Franecki,192
+26,"Labadie, Grimes and Zemlak",99
+27,Stark House,11
+28,Schmeler Station,2
+29,"O'Kon, Jakubowski and Hirthe",83
+30,Bartell and Sons,226
+31,Huels Stop,203
+32,Reilly-Wuckert,105
+33,"Schumm, Rogahn and Hyatt",131
+34,"Nitzsche, Nicolas and Larkin",222
+35,Lebsack-Lubowitz,175
+36,"VonRueden, Daugherty and Murazik",134
+37,"Shanahan, Fay and Langosh",201
+38,Rempel-Breitenberg,226
+39,Huel House,11
+40,Feest-Watsica,186
+41,Littel-Roob,32
+42,Osinski-Bayer,10
+43,Goldner and Sons,43
+44,"Kunde, Kemmer and Keebler",153
+45,Bayer Stop,35
+46,Beatty Stop,49
+47,Runolfsson-Runte,158
+48,Kessler-Shanahan,49
+49,Kub-Macejkovic,15
+50,"Nicolas, Hermann and Klocko",17
+51,Stanton House,94
+52,"Mohr, Windler and Greenfelder",24
+53,"Dicki, Schinner and Hackett",115
+54,O'Reilly Station,122
+55,"Carter, Graham and Kunde",167
+56,Feest Station,18
+57,D'Amore Stop,249
+58,"Rice, Dibbert and Roob",147
+59,"Kutch, Schulist and Ryan",109
+60,Kertzmann-Green,118
+61,Rosenbaum Station,99
+62,Schaden-Gusikowski,44
+63,"Fay, Cole and Ritchie",150
+64,Zemlak-Feest,205
+65,Mills-Satterfield,200
+66,Nienow-Bauch,2
+67,Herzog Stop,156
+68,"Zemlak, Grimes and Williamson",245
+69,"Swaniawski, Rodriguez and O'Keefe",103
+70,Rempel-Kemmer,238
+71,"Hammes, Witting and Smitham",151
+72,Bailey House,239
+73,Reichert Stop,108
+74,Cummings House,129
+75,"McLaughlin, Wisozk and Abernathy",78
+76,Murray and Sons,231
+77,"Wilderman, Wehner and Beier",200
+78,Luettgen-Hills,39
+79,"Streich, Bruen and Gutmann",196
+80,Hilll-Ferry,148
+81,Fritsch and Sons,182
+82,"Wunsch, Turner and Harvey",121
+83,Quitzon-Swift,30
+84,Kerluke Stop,44
+85,"Koch, Purdy and Hartmann",223
+86,Rowe-Christiansen,121
+87,"Gaylord, Sanford and Hyatt",78
+88,Hartmann and Sons,133
+89,Carter-Weimann,43
+90,Lemke House,159
+91,Deckow Station,206
+92,Zemlak-Blanda,116
+93,"Grady, Bradtke and Treutel",145
+94,D'Amore-Renner,145
+95,"Orn, Paucek and Torphy",106
+96,Frami House,19
+97,Hand House,141
+98,"Cartwright, Farrell and Lebsack",13
+99,Hodkiewicz-Schmitt,242
+100,"Prosacco, Ziemann and Gorczany",206
+101,Monahan Stop,165
+102,Brakus and Sons,232
+103,"Legros, Fay and Crooks",200
+104,Rempel Stop,71
+105,Lemke Station,47
+106,"Carter, Botsford and Skiles",73
+107,Witting-Stracke,35
+108,Goldner-Nitzsche,52
+109,"McCullough, Lemke and Kautzer",17
+110,"Krajcik, Stoltenberg and Mante",193
+111,"Windler, Abernathy and Pagac",172
+112,Cummings and Sons,223
+113,"Ondricka, Kihn and Harris",204
+114,"Dickinson, Hermiston and Lueilwitz",173
+115,Becker House,208
+116,Botsford-Hegmann,184
+117,"Zboncak, MacGyver and Lehner",118
+118,Wolf-Hilll,95
+119,"Hamill, Abshire and Jakubowski",236
+120,"Littel, Dooley and Cruickshank",25
+121,Crist and Sons,83
+122,"Skiles, Rau and Streich",70
+123,Padberg Station,46
+124,Howe Stop,49
+125,"Champlin, Rodriguez and Champlin",185
+126,"Emmerich, Hoeger and Gottlieb",156
+127,"Sipes, Kutch and Weissnat",90
+128,"McDermott, Walker and McGlynn",223
+129,Kilback Station,119
+130,Schuppe Stop,241
+131,Borer and Sons,30
+132,Bauch-Nolan,112
+133,"Mosciski, Yost and Nolan",200
+134,Price House,214
+135,Greenfelder-Lesch,120
+136,Blick House,108
+137,Flatley Stop,5
+138,"Ryan, Kilback and Smitham",116
+139,D'Amore and Sons,191
+140,Stroman Stop,104
+141,Hickle-Flatley,137
+142,Beatty-Schowalter,196
+143,"Denesik, Lowe and Morissette",146
+144,"Cruickshank, Kshlerin and Durgan",231
+145,Hauck House,50
+146,Hammes-Cormier,14
+147,Weissnat Stop,196
+148,Wintheiser House,5
+149,Gottlieb-Corwin,159
+150,"Kiehn, Walsh and Spinka",213

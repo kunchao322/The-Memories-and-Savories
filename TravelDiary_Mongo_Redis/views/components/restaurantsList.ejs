@@ -1,0 +1,13 @@
+<% if (des.Restaurants) {%>
+<h2>Restaurants:</h2>
+<ul>
+  <% for (let r of des.Restaurants) { %>
+  <li>
+    <a href="<%= '/destinations/' + des._id+ '/restaurant/' + r.id  %>"><%= r.name %></a>
+    <a href="<%= '/destinations/' + des._id + '/removeRestaurant/' + r.name   %>">❌</a>
+  </li>
+  <% } %>
+</ul>
+<% } %>
+
+<%- include("../components/formAddRes.ejs", { des }) %>

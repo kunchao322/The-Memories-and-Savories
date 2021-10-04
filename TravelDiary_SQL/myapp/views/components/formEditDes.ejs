@@ -1,0 +1,35 @@
+<h2>Destinations</h2>
+
+<form action=" <%= '/destinations/' + des.DestID + '/edit' %>" method="POST">
+
+  <div>
+    <label class="form-label">
+      Destination ID:
+      <input class="form-control" type="text" name="DestID" value="<%= des.DestID %>" disabled />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      Destination:
+      <input class="form-control" type="text" name="Destination" value="<%= des.Destination %>" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      StateID:
+      <input  class="form-control" type="text" name="StateID" value="<%= des.StateID %>" />
+    </label>
+  </div>
+
+    <div>
+    <label class="form-label">
+      State("Initials"):
+      <input disabled class="form-control" type="text" name="State" value="<%= des.State %>" />
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Update</button>
+  <a class="btn btn-danger" href="<%= '/destinations/' + des.DestID+ '/delete' %>">Delete</a>
+</form>

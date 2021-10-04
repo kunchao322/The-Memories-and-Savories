@@ -1,0 +1,12 @@
+<% if (hotDestinations) {%>
+<h2>Hot Destinations:</h2>
+<ul>
+  <% for (let destination of hotDestinations) { %>
+  <li>
+<!--    <a href="<%= '/destinations/' + destination._id+ '/edit' %>"><%= destination %></a>
+-->
+<%= destination %>
+  </li>
+  <% } %>
+</ul>
+<% } %>

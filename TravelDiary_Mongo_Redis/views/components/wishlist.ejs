@@ -1,0 +1,24 @@
+<% if (wishlist) {%>
+<h2>Destinations wanna visit:</h2>
+<ul>
+  <% for (let wish of wishlist) { %>
+  <li>
+<%= wish %>
+  </li>
+  <% } %>
+</ul>
+<% } %>
+
+<!--
+<h2>Delete A Destination From wishlist</h2>
+
+<form action=" <%= '/destinations/wishlist/removeFromWishlist' %>" method="POST">
+  <div>
+    <label class="form-label">
+      Wishlist Item(Copy and Paste the Full String):
+      <input class="form-control" type="text" name="wishToRemove"/>
+    </label>
+  </div>
+  <a class="btn btn-danger" href="/destinations/wishlist/removeFromWishlist">Delete</a>
+</form>
+-->

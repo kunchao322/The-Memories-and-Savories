@@ -1,0 +1,15 @@
+<h3>Add Restaurants</h3>
+<form action="<%= '/destinations/' + des.DestID + '/addRestaurant'  %>" method="POST">
+  <div>
+    <input hidden type="text" class="form-control" name="DestID" value="<%= des.DestID %>" />
+  </div>
+
+  <div>
+    <label class="form-label">
+      Restaurants Name:
+      <input type="text" class="form-control" name="restaurant_name" value="<%= restaurants.RestName %>" />
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-outline-primary">Add Restaurant</button>
+</form>

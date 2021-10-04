@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <%- include("../templates/head.ejs") %>
+
+    <body>
+
+        <%- include("../templates/navBar.ejs") %>
+
+        <div class="container">
+            <h1>Restaurants Manager</h1>
+
+
+            <% if (msg) { %>
+            <div class="alert alert-primary">
+                <%= msg %>
+            </div>
+            <% } %>
+
+
+            <div class="row">
+                <div class="col-8">
+                    <%- include("../components/searchBar.ejs", { query }) %>
+
+
+                    <% for (let r of restaurants) { %>
+                    <li>
+                        <a href="<%= '/destinations/restaurant/' + r.RestID  %>"><%= r.RestName %></a>
+                        <a href="<%= '/destinations/removeRestaurant/' + r.RestID   %>">❌</a>
+                    </li>
+                    <% } %>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+
+        <%- include("../templates/footer.ejs") %>
+    </body>
+
+</html>

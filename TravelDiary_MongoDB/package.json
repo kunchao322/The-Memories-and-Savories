@@ -1,0 +1,25 @@
+{
+    "name": "nodereferencemanager",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./node_modules/nodemon/bin/nodemon.js ./bin/www",
+        "importData": "mongoimport -h localhost:27017 -d DestinationManager -c Destinations --jsonArray --drop --file ./db/Destinations.json"
+
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "ejs": "~2.6.1",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "mongodb": "^4.0.1",
+        "morgan": "~1.9.1",
+        "nodemon": "^2.0.9"
+    },
+    "devDependencies": {
+        "eslint": "^7.29.0",
+        "eslint-config-prettier": "^8.3.0",
+        "prettier": "^2.3.1"
+    }
+}

@@ -1,0 +1,251 @@
+DestID,Destinations,StateID
+1,Ma'aloa,13
+2,Hillside Vervain,3
+3,Reflexed Sedge,18
+4,White Cogwood,13
+5,Pseudophoenix,15
+6,Moss Campion,5
+7,Small Butterwort,2
+8,Manduro,6
+9,Tree Climacium Moss,19
+10,Crimson Bottlebrush,2
+11,Freckled Milkvetch,3
+12,Mariposa Pussypaws,15
+13,Rocky Mountain Beggarticks,16
+14,Smooth Manjack,6
+15,Clokey's Greasebush,3
+16,Small White Clover,0
+17,Narrowleaf Gumweed,5
+18,Elmer's Lupine,2
+19,Narrow Corncockle,1
+20,Manyflowered Ipomopsis,19
+21,Oblique Lempholemma Lichen,20
+22,Texas Dutchman's Pipe,12
+23,Uvilla,7
+24,Knotted Rush,15
+25,Wart Lichen,5
+26,Black Garlic,12
+27,Tufted Twinpod,6
+28,Alpine Mirrorplant,5
+29,Kittitas Larkspur,7
+30,Cryptantha,10
+31,Veatch's Island Broom,1
+32,Bog Blueberry,22
+33,Parry's Phacelia,15
+34,Cleburn's Penstemon,4
+35,Sand Bluestem,5
+36,Graceful Kihifern,2
+37,Perennial Honesty,9
+38,Netleaf Bundleflower,22
+39,Cleftleaf Phacelia,1
+40,Beath's Milkvetch,9
+41,Pensacola Hawthorn,16
+42,White Alder,16
+43,Western Tansymustard,13
+44,Japanese Sweet Coltsfoot,18
+45,Toria,5
+46,Sanddune Sandmat,6
+47,Thelia Moss,22
+48,Tansy Bristle Fern,3
+49,Bellwort,15
+50,Deam's Coneflower,6
+51,Shrubby Jointvetch,0
+52,Twistedstalk,19
+53,Cartilage Lichen,3
+54,Chilean Plantain,20
+55,Variableleaf Jewelflower,20
+56,Sentry Milkvetch,21
+57,Platygyrium Moss,11
+58,Timothy Canarygrass,20
+59,Santa Catalina Burstwort,8
+60,Hedwigia Moss,12
+61,European Feather Grass,15
+62,Oiltree,9
+63,Garden Baby's-breath,8
+64,Kahika,12
+65,Robin's Plantain,11
+66,Moulins' Silverskin Lichen,6
+67,Chinese Hatplant,8
+68,Fringed Rue,19
+69,Beach Shieldpod,6
+70,Curcuma,5
+71,Heartleaf Buttercup,17
+72,Fiveneedle Pricklyleaf,10
+73,Prairie Gentian,1
+74,Wahiawa Mountain Labordia,15
+75,Bridges' Catchfly,22
+76,Coastal Plain False Foxglove,18
+77,Steinia Lichen,2
+78,Finger Rush,10
+79,Carolina Campylopus Moss,11
+80,Spiked Woodrush,7
+81,Rubber Rabbitbrush,2
+82,Santa Barbara Honeysuckle,20
+83,Holzinger's Brachythecium Moss,10
+84,Largefruit Blacksnakeroot,1
+85,Warnstorfia Moss,1
+86,Yellow Avalanche-lily,0
+87,Pinyon Gilia,7
+88,Nevada Blue-eyed Grass,11
+89,Pyrenopsis Lichen,20
+90,Canyon Cupgrass,7
+91,Navelwort,12
+92,Onetooth Woodfern,0
+93,Velvetseed Milkwort,6
+94,Warnock's Prairie Clover,0
+95,Texas Bindweed,4
+96,Slipper Flower,20
+97,Florida False Beardgrass,8
+98,Peninsular Beargrass,0
+99,Small Limestone Moss,1
+100,Lava Dubautia,20
+101,Forget-me-not Popcornflower,1
+102,Twinleaf,2
+103,Stinging Annual Lupine,14
+104,Hooker's Balsamroot,0
+105,Field Pansy,2
+106,Florida False Sunflower,22
+107,Sappanwood,4
+108,Oregon Coolwort,2
+109,Mock Buckthorn,20
+110,Pterigynandrum Moss,10
+111,Sonoran Milkvine,1
+112,Cashew,15
+113,Claspleaf Pennycress,13
+114,Sal Tree,9
+115,Siberian Crab Apple,10
+116,Rhytidium Moss,8
+117,Hardstem Bulrush,16
+118,Sunflower,18
+119,Tomcat Clover,2
+120,Silkyscale,15
+121,Smallflower Creepingoxeye,5
+122,American Lily-of-the-valley,3
+123,False Rosemary,7
+124,Venus Penstemon,21
+125,Chesapeake Blackberry,19
+126,Arctic Cottongrass,20
+127,Alpine Willow,10
+128,Plains Dozedaisy,11
+129,Hairy-seed Goldenrod,3
+130,Brittle Waternymph,16
+131,Graceful Peperomia,18
+132,Virginia Strawberry,22
+133,Tortured Tortella Moss,22
+134,Mountain Monardella,14
+135,Redtwig Doghobble,9
+136,Western Blanketflower,3
+137,Cusick's Beardtongue,12
+138,African Couchgrass,6
+139,Plumed Clover,5
+140,Orange Lichen,9
+141,Purple Bird's-beak,8
+142,California Milkweed,22
+143,Atoto,9
+144,Piedmont Flatsedge,10
+145,Singleleaf Ash,8
+146,New England Blackberry,16
+147,Atrichum Moss,15
+148,Holywood,21
+149,Douglass' Springparsley,0
+150,Beatley's Buckwheat,5
+151,Chaparral Sedge,18
+152,Horsehair Lichen,20
+153,Coinvine,16
+154,Hairy Horsebrush,1
+155,Bachman's Jelly Lichen,18
+156,Pine Barren Thoroughwort,13
+157,Pringle's Heliotrope,21
+158,Western Tansymustard,17
+159,Wildrye,19
+160,Greene's Rockcress,1
+161,Downy Birch,17
+162,Desert Deervetch,20
+163,Junghuhn's Sphagnum,6
+164,Bigseed Biscuitroot,11
+165,Marubio,13
+166,Hybrid Rhododendron,1
+167,Oriental Knight's-spur,9
+168,Plukenet's Flatsedge,2
+169,Sawtooth Sunflower,9
+170,Sandscrub Ceanothus,16
+171,Woolly Mule-ears,21
+172,Creamflower Rockcress,10
+173,Tapertip Cupgrass,22
+174,Slender Buckwheat,16
+175,Lanceleaf Buckwheat,14
+176,Oahu Clermontia,18
+177,Desert Willow,19
+178,Black Mangrove,8
+179,Aladdin's Slippers,4
+180,Curly Sedge,10
+181,Bridger Mountain Alumroot,9
+182,Tobacco,19
+183,Lesley's Rimmed Lichen,20
+184,Aleutian Bog Orchid,5
+185,Grizzleybear Pricklypear,4
+186,Brachythecium Moss,2
+187,Sourthern Woodrush,7
+188,Biatora Lichen,19
+189,Lovegrass Tridens,22
+190,Carpet Phlox,2
+191,Loosestrife,9
+192,Disc Lichen,9
+193,Southern Marsh Yellowcress,2
+194,Western Bladderpod,1
+195,Large-flower Hop Clover,4
+196,Tropical Ladies'-tresses,2
+197,Nodding Sedge,6
+198,Orange Lichen,11
+199,Summer Grape,9
+200,Red Hills Soap Plant,20
+201,Phacopsis Lichen,9
+202,Rayless Goldenhead,16
+203,Esslingeriana Lichen,4
+204,Pine Barren Whitetop Aster,17
+205,Bog Goldenrod,1
+206,White Lupine,6
+207,Birch,17
+208,Japanese Horse Chestnut,17
+209,Smooth Bogrush,10
+210,Rayless Mock Goldenrod,15
+211,Rubber Rabbitbrush,6
+212,Basin Bladderpod,10
+213,Canadian Hawkweed,15
+214,Intermediate Plagiomnium Moss,18
+215,Rooted Poppy,1
+216,Grapefruit,9
+217,Lesser Bladderwort,12
+218,Calyptocarpus,21
+219,Mexican Mint,7
+220,Buffaloberry,5
+221,English Peak Greenbrier,3
+222,Dot Lichen,17
+223,Siberian Springbeauty,8
+224,Scorpidium Moss,16
+225,Green-winged Orchid,3
+226,Sticky Phlox,15
+227,Clubmoss Snakefern,7
+228,Littlebrownjug,17
+229,Purple Scalystem,1
+230,Sunflower,11
+231,Gyalectidium Lichen,8
+232,Trypelthelium Lichen,14
+233,Rose's Springparsley,0
+234,White Lobelia,10
+235,Intermediate Orange Lichen,3
+236,Virginia Chainfern,11
+237,Lanate Balsamroot,17
+238,Golden Crownbeard,17
+239,Seasonvine,3
+240,Skunk Cabbage,20
+241,Southern Amaranth,13
+242,Ciliate Hedwigia Moss,16
+243,Lamp Rush,11
+244,Elegant Calicoflower,2
+245,Nuttall's Little Rose,10
+246,Asplenium Ladyfern,10
+247,Smooth Pricklypoppy,4
+248,Checkertree,13
+249,Oligotrichum Moss,4
+250,Stemmy Four-nerve Daisy,7

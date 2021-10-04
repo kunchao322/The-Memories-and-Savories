@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <%- include("../templates/head.ejs") %>
+
+    <body>
+
+        <%- include("../templates/navBar.ejs") %>
+
+        <div class="container">
+            <h2><b><%= restaurant.RestName %></b></h2>
+
+            <div class="row">
+                <div class="col-8">
+
+                    <div>Average Rating<%= restaurant.ratingAvg %></div>
+                    <div>Average Cost<%= restaurant.costAvg %> </div>
+                    <br>
+                    <h2>Reviews:</h2>
+                    <% for (let c of comments) { %>
+                    <div><b> <%= c.username %>:</b></div>
+                    <%= c.comments %>
+                    <br>
+                    <br>
+                    <% } %>
+                </div>
+            </div>
+
+        </div>
+
+        <%- include("../templates/footer.ejs") %>
+    </body>
+
+</html>

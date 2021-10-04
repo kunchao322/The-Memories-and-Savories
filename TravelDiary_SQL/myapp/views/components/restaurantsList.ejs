@@ -1,0 +1,13 @@
+<h2>Restaurants:</h2>
+<ul>
+  <% for (let r of restaurants) { %>
+  <li>
+    <a href="<%= '/destinations/' + des.DestID+ '/restaurant/' + r.RestID  %>"><%= r.RestName %></a>
+    <a href="<%= '/destinations/' + des.DestID + '/removeRestaurant/' + r.RestID   %>">❌</a>
+  </li>
+  <% } %>
+</ul>
+
+
+
+<%- include("../components/formAddRes.ejs", { des }) %>

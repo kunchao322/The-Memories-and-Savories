@@ -1,0 +1,24 @@
+<h2>Destinations</h2>
+
+<form action=" <%= '/destinations/' + des._id + '/edit' %>" method="POST">
+
+  <div>
+    <label class="form-label">
+      Destination:
+      <input class="form-control" type="text" name="view" value="<%= des.view %>" />
+    </label>
+  </div>
+
+  <div>
+    <label class="form-label">
+      State("Initials"):
+      <input class="form-control" type="text" name="State" value="<%= des.State %>" />
+    </label>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Update</button>
+  <a class="btn btn-danger" href="<%= '/destinations/' + des._id+ '/delete' %>">Delete</a>
+  <a class="btn btn-success" href="<%= '/destinations/' + des._id+ '/addToWishlist' %>">Wishlist It!</a>
+
+
+</form>
